@@ -2,15 +2,17 @@
 
 Desafios de criação de páginas estáticas com a utilização das tecnologias: HTML, CSS e JS.
 
-  <a title="Badge Linkedin" alt="Badge Linkedin" href="https://www.linkedin.com/in/gil-everson/" target="_blanck"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><!-- https://img.shields.io --></a>
+  <a title="Badge Linkedin" alt="Badge Linkedin" href="https://www.linkedin.com/in/gil-everson/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><!-- https://img.shields.io --></a>
 
 
-|  #  | Projetos                                                                                             | Demonstrações                                                                                |
-| :-: | ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| 01  | [Cards Expansíveis](https://github.com/gilczarneski/50-Projetos-Em-50-Dias/tree/main/Projeto_Dia_01) | [Demonstração Dia 01](https://gilczarneski.github.io/50-Projetos-Em-50-Dias/Projeto_Dia_01/) |
-|02|[]()|[Demonstração Dia 02]|
+|  #  | ![PROJETOS Badge](https://img.shields.io/badge/PROJETOS-3a4a51?style=for-the-badge) | ![DEMONSTRAÇÕES Badge](https://img.shields.io/badge/DEMONSTRAÇÕES-00565f?style=for-the-badge)|
+| :-: | -------- | ------------- |
+| 01  | [![Cards Expansíveis](https://img.shields.io/badge/Cards_Expansíveis-3a4a51?style=for-the-badge&labelColor=3a4a51)](https://github.com/gilczarneski/50-Projetos-Em-50-Dias/tree/main/Projeto_Dia_01) | [![DEPLOY Badge](https://img.shields.io/badge/-DEMONSTRAÇÃO_DIA_01-00565f?style=for-the-badge&labelColor=3a4a51)](https://gilczarneski.github.io/50-Projetos-Em-50-Dias/Projeto_Dia_01/)|
 
-<!-- |03|[]()|[Demonstração Dia 03]()|
+
+<!--
+| 02  | [![PROJETO 02](https://img.shields.io/badge/PROJETO_02-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DEMONSTRAÇÃO_PROJETO_02-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+|03|[]()|[Demonstração Dia 03]()|
 |04|[]()|[Demonstração Dia 04]()|
 |05|[]()|[Demonstração Dia 05]()|
 |06|[]()|[Demonstração Dia 06]()|
@@ -57,5 +59,5 @@ Desafios de criação de páginas estáticas com a utilização das tecnologias:
 |47|[]()|[Demonstração Dia 47]()|
 |48|[]()|[Demonstração Dia 48]()|
 |49|[]()|[Demonstração Dia 49]()|
-|50|[]()|[Demonstração Dia 50]()|
+|50|[![PROJETO 50](https://img.shields.io/badge/PROJETO_50-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DEMONSTRAÇÃO_PROJETO_50-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)| O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
 -->
