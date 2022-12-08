@@ -1,5 +1,7 @@
 # 50-Projetos-Em-50-Dias
 
+[![LICENSE Badge](https://img.shields.io/badge/LICENSE-MIT-00565f?style=for-the-badge&labelColor=3a4a51)](https://github.com/gilczarneski/50-Projetos-Em-50-Dias/blob/main/LICENSE)
+
 Desafios de criação de páginas estáticas com a utilização das tecnologias: HTML, CSS e JS.
 
   <a title="Badge Linkedin" alt="Badge Linkedin" href="https://www.linkedin.com/in/gil-everson/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><!-- https://img.shields.io --></a>
