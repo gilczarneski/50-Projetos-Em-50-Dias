@@ -14,6 +14,9 @@
 ![Badge HTML](https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white)
 ![Badge CSS](https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white)
 ![Badge JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=414141)
+![Badge Git](https://img.shields.io/badge/-GIT-%23181717?style=for-the-badge&logo=git)
+![Badge GitHub](https://img.shields.io/badge/-GITHUB-%23181717?style=for-the-badge&logo=github)
+![Badge VSCode](https://img.shields.io/badge/-VISUAL%20STUDIO%20CODE-%23007ACC?style=for-the-badge&logo=visualstudiocode)
 
 ![ShielddoProjeto](https://img.shields.io/github/repo-size/gilczarneski/50-Projetos-Em-50-Dias?style=for-the-badge)
 ![Lines of code](https://img.shields.io/tokei/lines/github/gilczarneski/50-Projetos-Em-50-Dias?style=for-the-badge)
@@ -94,4 +97,4 @@ Esse é meu primeiro grande projeto onde, com a utilização das tecnologias: HT
 
 Pessoa | Cargo | Social Link
 :-----:|:-----:|:----------:
-Gil Everson Czarneski | Desenvolvedor WEB | [![Badge Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/gil-everson/)
+ ![](https://img.shields.io/badge/gil_everson_czarneski-3a4a51?style=for-the-badge&labelColor=3a4a51)| ![](https://img.shields.io/badge/-desenvolvedor_web-00565f?style=for-the-badge&labelColor=3a4a51) | [![Badge Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/gil-everson/)
