@@ -1,16 +1,37 @@
-# 50-Projetos-Em-50-Dias
+
+<img width=100% src="assets/Frame 1.svg">
+
+---
+
+- [Descrição](#Descrição)
+- [Projetos](#Projetos)
+- [Autor](#Autor)
+
+
 
 [![LICENSE Badge](https://img.shields.io/badge/LICENSE-MIT-00565f?style=for-the-badge&labelColor=3a4a51)](https://github.com/gilczarneski/50-Projetos-Em-50-Dias/blob/main/LICENSE)
 
-Desafios de criação de páginas estáticas com a utilização das tecnologias: HTML, CSS e JS.
+![Badge HTML](https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white)
+![Badge CSS](https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white)
+![Badge JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=414141)
 
-  <a title="Badge Linkedin" alt="Badge Linkedin" href="https://www.linkedin.com/in/gil-everson/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /><!-- https://img.shields.io --></a>
+![ShielddoProjeto](https://img.shields.io/github/repo-size/gilczarneski/50-Projetos-Em-50-Dias?style=for-the-badge)
+![ShielddoProjeto](https://img.shields.io/tokei/lines/github/gilczarneski/50-Projetos-Em-50-Dias?style=for-the-badge)
+![ShielddoProjeto](https://img.shields.io/github/last-commit/gilczarneski/50-Projetos-Em-50-Dias?style=for-the-badge)
 
+---
+
+# Descrição
+
+Esse é meu primeiro grande projeto onde, com a utilização das tecnologias: HTML, CSS e JavaScript, desenvolverei 50 projetos web em 50 dias ou menos. O Objetivo é treinar os conhecimentos em web. Abaixo eu estou listando todos os projetos e suas páginas hospedadas dentro do Github Pages mesmo.
+
+---
+
+# Projetos
 
 |  #  | ![PROJETOS Badge](https://img.shields.io/badge/PROJETOS-3a4a51?style=for-the-badge) | ![DEMONSTRAÇÕES Badge](https://img.shields.io/badge/DEMONSTRAÇÕES-00565f?style=for-the-badge)|
 | :-: | -------- | ------------- |
 | 01  | [![Cards Expansíveis](https://img.shields.io/badge/Cards_Expansíveis-3a4a51?style=for-the-badge&labelColor=3a4a51)](https://github.com/gilczarneski/50-Projetos-Em-50-Dias/tree/main/Projeto_Dia_01) | [![DEPLOY Badge](https://img.shields.io/badge/-DEMONSTRAÇÃO_DIA_01-00565f?style=for-the-badge&labelColor=3a4a51)](https://gilczarneski.github.io/50-Projetos-Em-50-Dias/Projeto_Dia_01/)|
-
 
 <!--
 | 02  | [![PROJETO 02](https://img.shields.io/badge/PROJETO_02-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DEMONSTRAÇÃO_PROJETO_02-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
@@ -63,3 +84,11 @@ Desafios de criação de páginas estáticas com a utilização das tecnologias:
 |49|[]()|[Demonstração Dia 49]()|
 |50|[![PROJETO 50](https://img.shields.io/badge/PROJETO_50-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DEMONSTRAÇÃO_PROJETO_50-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)| O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
 -->
+
+---
+
+# Autor
+
+Pessoa | Cargo | Social Link
+:-----:|:-----:|:----------:
+Gil Everson Czarneski | Desenvolvedor WEB | [![Badge Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/gil-everson/)
