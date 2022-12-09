@@ -23,7 +23,9 @@
 
 # Descrição
 
-Esse é meu primeiro grande projeto onde, com a utilização das tecnologias: HTML, CSS e JavaScript, desenvolverei 50 projetos web em 50 dias ou menos. O Objetivo é treinar os conhecimentos em web. Abaixo eu estou listando todos os projetos e suas páginas hospedadas dentro do Github Pages mesmo.
+Esse é meu primeiro grande projeto onde, com a utilização das tecnologias: HTML (Responsável pela estruturação), CSS (Responsável pela estilização) e JavaScript (Responsável pela movimentação), desenvolverei 50 projetos web em 50 dias ou menos. O Objetivo é treinar os conhecimentos em web. Abaixo eu estou listando todos os projetos e suas páginas hospedadas dentro do Github Pages mesmo.
+
+<img width=100% src="assets/Estruturas.png">
 
 ---
 
