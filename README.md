@@ -1,13 +1,115 @@
+[<img width=70 src="https://raw.githubusercontent.com/gist/gilczarneski/8bbedd31f8c0a9e11f5fbb0d9cea577c/raw/d029eccdf8e078a3ba5df2cfb0b4b88b3f418aab/PortugueseLanguageFlag.svg">](#Português)
+[<img width=70 src="https://raw.githubusercontent.com/gist/gilczarneski/8991f069c5d7910d60df800fb1d2945a/raw/d6a89315cb941ddf9fbf2fa4384b77a0d193db24/EnglishLanguageFlag.svg">](#English)
 
-<img width=100% src="assets/Frame 1.svg">
+# English
+
+<img width=100% src="https://raw.githubusercontent.com/gist/gilczarneski/ed552c33d73f4e918decb733fbc0a9b5/raw/04811d48bb91053543749f21bdd39f6e47f56c76/50Projects.svg">
+
+---
+
+- [About this](#About_this)
+- [Projects](#Projects)
+- [Autor](#Autor)
+
+[![LICENSE Badge](https://img.shields.io/badge/LICENSE-MIT-00565f?style=for-the-badge&labelColor=3a4a51)](https://github.com/gilczarneski/50-Projetos-Em-50-Dias/blob/main/LICENSE)
+
+![Badge HTML](https://img.shields.io/badge/HTML-e06b12?style=for-the-badge&logo=html5&logoColor=white)
+![Badge CSS](https://img.shields.io/badge/CSS-1283e0?&style=for-the-badge&logo=css3&logoColor=white)
+![Badge JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=414141)
+![Badge Git](https://img.shields.io/badge/-GIT-%23181717?style=for-the-badge&logo=git)
+![Badge GitHub](https://img.shields.io/badge/-GITHUB-%23181717?style=for-the-badge&logo=github)
+![Badge VSCode](https://img.shields.io/badge/-VISUAL%20STUDIO%20CODE-%23007ACC?style=for-the-badge&logo=visualstudiocode)
+
+![ShielddoProjeto](https://img.shields.io/github/repo-size/gilczarneski/50-Projetos-Em-50-Dias?style=for-the-badge)
+![Lines of code](https://img.shields.io/tokei/lines/github/gilczarneski/50-Projetos-Em-50-Dias?style=for-the-badge)
+![ShielddoProjeto](https://img.shields.io/github/last-commit/gilczarneski/50-Projetos-Em-50-Dias?style=for-the-badge)
+
+---
+
+# About this
+
+This is my first big project where, with the use of technologies: HTML (site structure), CSS (site glitter) and JavaScript (site dynamics), I will develop 50 web projects in 50 days or less. The objective is to train knowledge on the web. Below I'm listing all the projects and their pages hosted within Github Pages.
+
+<img width=100% src="assets/Estruturas.png">
+
+---
+
+# Projects
+
+|  #  | ![PROJETOS Badge](https://img.shields.io/badge/PROJECTS-3a4a51?style=for-the-badge)                                                                                                              | ![DEMO Badge](https://img.shields.io/badge/DEMO-00565f?style=for-the-badge)                                                                                                      |
+| :-: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 00  | [![Base](https://img.shields.io/badge/Base-3a4a51?style=for-the-badge&labelColor=3a4a51)](https://github.com/gilczarneski/50-Projetos-Em-50-Dias/tree/main/Projeto_Base)                         | [![DEPLOY Badge](https://img.shields.io/badge/-BASE_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](https://gilczarneski.github.io/50-Projetos-Em-50-Dias/Projeto_Base/)     |
+| 01  | [![Expanding Cards](https://img.shields.io/badge/Expanding_Cards-3a4a51?style=for-the-badge&labelColor=3a4a51)](https://github.com/gilczarneski/50-Projetos-Em-50-Dias/tree/main/Projeto_Dia_01) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_01_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](https://gilczarneski.github.io/50-Projetos-Em-50-Dias/Projeto_Dia_01/) |
+
+<!--
+| 02  | [![Progress Steps](https://img.shields.io/badge/Progress_Steps-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_02_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 03  | [![	Rotating Navigation Animation](https://img.shields.io/badge/PROJETO_03-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_03_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 04  | [![Hidden Search Widget](https://img.shields.io/badge/PROJETO_04-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_04_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 05  | [![Blurry Loading](https://img.shields.io/badge/PROJETO_05-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_05_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 06  | [![Scroll Animation](https://img.shields.io/badge/PROJETO_06-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_06_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 07  | [![Split Landing Page](https://img.shields.io/badge/PROJETO_07-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_07_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 08  | [![Form Wave](https://img.shields.io/badge/PROJETO_08-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_08_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 09  | [![Sound Board](https://img.shields.io/badge/PROJETO_09-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_09_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 10  | [![Dad Jokes](https://img.shields.io/badge/PROJETO_10-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_10_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 11  | [![Event Keycodes](https://img.shields.io/badge/PROJETO_11-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_11_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 12  | [![Faq Collapse](https://img.shields.io/badge/PROJETO_12-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_12_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 13  | [![Random Choice Picker](https://img.shields.io/badge/PROJETO_13-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_13_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 14  | [![Animated Navigation](https://img.shields.io/badge/PROJETO_14-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_14_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 15  | [![Incrementing Counter](https://img.shields.io/badge/PROJETO_15-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_15_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 16  | [![Drink Water](https://img.shields.io/badge/PROJETO_16-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_16_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 17  | [![Movie App](https://img.shields.io/badge/PROJETO_17-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_17_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 18  | [![Background Slider](https://img.shields.io/badge/PROJETO_18-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_18_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 19  | [![Theme Clock](https://img.shields.io/badge/PROJETO_19-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_19_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 20  | [![Button Ripple Effect](https://img.shields.io/badge/PROJETO_20-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_20_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 21  | [![Drag N Drop](https://img.shields.io/badge/PROJETO_21-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_21_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 22  | [![Drawing App](https://img.shields.io/badge/PROJETO_22-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_22_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 23  | [![Kinetic Loader](https://img.shields.io/badge/PROJETO_23-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_23_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 24  | [![Content Placeholder](https://img.shields.io/badge/PROJETO_24-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_24_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 25  | [![Sticky Navbar](https://img.shields.io/badge/PROJETO_25-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_25_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 26  | [![Double Vertical Slider](https://img.shields.io/badge/PROJETO_26-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_26_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 27  | [![Toast Notification](https://img.shields.io/badge/PROJETO_27-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_27_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 28  | [![Github Profiles](https://img.shields.io/badge/PROJETO_28-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_28_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 29  | [![Double Click Heart](https://img.shields.io/badge/PROJETO_29-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_29_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 30  | [![Auto Text Effect](https://img.shields.io/badge/PROJETO_30-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_30_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 31  | [![Password Generator](https://img.shields.io/badge/PROJETO_31-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_31_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 32  | [![Good Cheap Fast](https://img.shields.io/badge/PROJETO_32-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_32_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 33  | [![Notes App](https://img.shields.io/badge/PROJETO_33-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_33_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 34  | [![Animated Countdown](https://img.shields.io/badge/PROJETO_34-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_34_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 35  | [![Image Carousel](https://img.shields.io/badge/PROJETO_35-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_35_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 36  | [![Hoverboard](https://img.shields.io/badge/PROJETO_36-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_36_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 37  | [![Pokedex](https://img.shields.io/badge/PROJETO_37-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_37_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 38  | [![Mobile Tab Navigation](https://img.shields.io/badge/PROJETO_38-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_38_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 39  | [![Password Strength Background](https://img.shields.io/badge/PROJETO_39-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_39_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 40  | [![3d Background Boxes](https://img.shields.io/badge/PROJETO_40-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_40_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 41  | [![Verify Account Ui](https://img.shields.io/badge/PROJETO_41-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_41_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 42  | [![Live User Filter](https://img.shields.io/badge/PROJETO_42-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_42_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 43  | [![Feedback Ui Design](https://img.shields.io/badge/PROJETO_43-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_43_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 44  | [![Custom Range Slider](https://img.shields.io/badge/PROJETO_44-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_44_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 45  | [![Netflix Mobile Navigation](https://img.shields.io/badge/PROJETO_45-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_45_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 46  | [![Quiz App](https://img.shields.io/badge/PROJETO_46-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_46_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 47  | [![Testimonial Box Switcher](https://img.shields.io/badge/PROJETO_47-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_47_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 48  | [![Random Image Feed](https://img.shields.io/badge/PROJETO_48-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_48_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 49  | [![Todo List](https://img.shields.io/badge/PROJETO_49-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_49_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+| 50  | [![Insect Catch Game](https://img.shields.io/badge/PROJETO_50-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_50_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)| O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
+-->
+
+---
+
+# Autor
+
+|                                                Pessoa                                                |                                               Cargo                                               |                                                                          Social Link                                                                           |
+| :--------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![](https://img.shields.io/badge/gil_everson_czarneski-3a4a51?style=for-the-badge&labelColor=3a4a51) | ![](https://img.shields.io/badge/-desenvolvedor_web-00565f?style=for-the-badge&labelColor=3a4a51) | [![Badge Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/gil-everson/) |
+
+# Português
+
+<img width=100% src="https://raw.githubusercontent.com/gist/gilczarneski/86e4cd8a33ffc01d62bfa3f46f8d6819/raw/d60b6d5c6ea1ce3ff9ac53b81c593e7edc475a0c/50Projetos.svg">
 
 ---
 
 - [Descrição](#Descrição)
 - [Projetos](#Projetos)
-- [Autor](#Autor)
-
-
+- [Colaborador](#Colaborador)
 
 [![LICENSE Badge](https://img.shields.io/badge/LICENSE-MIT-00565f?style=for-the-badge&labelColor=3a4a51)](https://github.com/gilczarneski/50-Projetos-Em-50-Dias/blob/main/LICENSE)
 
@@ -26,7 +128,7 @@
 
 # Descrição
 
-Esse é meu primeiro grande projeto onde, com a utilização das tecnologias: HTML (Responsável pela estruturação), CSS (Responsável pela estilização) e JavaScript (Responsável pela movimentação), desenvolverei 50 projetos web em 50 dias ou menos. O Objetivo é treinar os conhecimentos em web. Abaixo eu estou listando todos os projetos e suas páginas hospedadas dentro do Github Pages mesmo.
+Esse é meu primeiro grande projeto onde, com a utilização das tecnologias: HTML (estrutura do site), CSS (purpurina do site) e JavaScript (dinêmica do site), desenvolverei 50 projetos web em 50 dias ou menos. O Objetivo é treinar os conhecimentos em web. Abaixo eu estou listando todos os projetos e suas páginas hospedadas dentro do Github Pages mesmo.
 
 <img width=100% src="assets/Estruturas.png">
 
@@ -34,10 +136,10 @@ Esse é meu primeiro grande projeto onde, com a utilização das tecnologias: HT
 
 # Projetos
 
-|  #  | ![PROJETOS Badge](https://img.shields.io/badge/PROJETOS-3a4a51?style=for-the-badge) | ![DEMONSTRAÇÕES Badge](https://img.shields.io/badge/DEMONSTRAÇÕES-00565f?style=for-the-badge)|
-| :-: | -------- | ------------- |
-| 00  | [![Base dos Projetos](https://img.shields.io/badge/Base_dos_Projetos-3a4a51?style=for-the-badge&labelColor=3a4a51)](https://github.com/gilczarneski/50-Projetos-Em-50-Dias/tree/main/Projeto_Base) | [![DEPLOY Badge](https://img.shields.io/badge/-DEMONSTRAÇÃO_PROJETO_BASE-00565f?style=for-the-badge&labelColor=3a4a51)](https://gilczarneski.github.io/50-Projetos-Em-50-Dias/Projeto_Base/)|
-| 01  | [![Cards Expansíveis](https://img.shields.io/badge/Cards_Expansíveis-3a4a51?style=for-the-badge&labelColor=3a4a51)](https://github.com/gilczarneski/50-Projetos-Em-50-Dias/tree/main/Projeto_Dia_01) | [![DEPLOY Badge](https://img.shields.io/badge/-DEMONSTRAÇÃO_DIA_01-00565f?style=for-the-badge&labelColor=3a4a51)](https://gilczarneski.github.io/50-Projetos-Em-50-Dias/Projeto_Dia_01/)|
+|  #  | ![PROJETOS Badge](https://img.shields.io/badge/PROJETOS-3a4a51?style=for-the-badge)                                                                                                                  | ![DEMONSTRAÇÕES Badge](https://img.shields.io/badge/DEMONSTRAÇÕES-00565f?style=for-the-badge)                                                                                                |
+| :-: | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 00  | [![Base dos Projetos](https://img.shields.io/badge/Base_dos_Projetos-3a4a51?style=for-the-badge&labelColor=3a4a51)](https://github.com/gilczarneski/50-Projetos-Em-50-Dias/tree/main/Projeto_Base)   | [![DEPLOY Badge](https://img.shields.io/badge/-DEMONSTRAÇÃO_PROJETO_BASE-00565f?style=for-the-badge&labelColor=3a4a51)](https://gilczarneski.github.io/50-Projetos-Em-50-Dias/Projeto_Base/) |
+| 01  | [![Cards Expansíveis](https://img.shields.io/badge/Cards_Expansíveis-3a4a51?style=for-the-badge&labelColor=3a4a51)](https://github.com/gilczarneski/50-Projetos-Em-50-Dias/tree/main/Projeto_Dia_01) | [![DEPLOY Badge](https://img.shields.io/badge/-DEMONSTRAÇÃO_DIA_01-00565f?style=for-the-badge&labelColor=3a4a51)](https://gilczarneski.github.io/50-Projetos-Em-50-Dias/Projeto_Dia_01/)     |
 
 <!--
 | 02  | [![PROJETO 02](https://img.shields.io/badge/PROJETO_02-3a4a51?style=for-the-badge&labelColor=3a4a51)](LINK PARA REPOSITÓRIO) | [![DEPLOY Badge](https://img.shields.io/badge/-DEMONSTRAÇÃO_PROJETO_02-00565f?style=for-the-badge&labelColor=3a4a51)](LINK PARA DEPLOY)|  O QUE ESTÁ EM MAIÚSCULO PODE SER TROCADO.
@@ -93,8 +195,8 @@ Esse é meu primeiro grande projeto onde, com a utilização das tecnologias: HT
 
 ---
 
-# Autor
+# Colaborador
 
-Pessoa | Cargo | Social Link
-:-----:|:-----:|:----------:
- ![](https://img.shields.io/badge/gil_everson_czarneski-3a4a51?style=for-the-badge&labelColor=3a4a51)| ![](https://img.shields.io/badge/-desenvolvedor_web-00565f?style=for-the-badge&labelColor=3a4a51) | [![Badge Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/gil-everson/)
+|                                                Pessoa                                                |                                               Cargo                                               |                                                                          Social Link                                                                           |
+| :--------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![](https://img.shields.io/badge/gil_everson_czarneski-3a4a51?style=for-the-badge&labelColor=3a4a51) | ![](https://img.shields.io/badge/-desenvolvedor_web-00565f?style=for-the-badge&labelColor=3a4a51) | [![Badge Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/gil-everson/) |
