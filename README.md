@@ -9,7 +9,7 @@
 
 - [About this](#About_this)
 - [Projects](#Projects)
-- [Autor](#Autor)
+- [Authors](#Authors)
 
 [![LICENSE Badge](https://img.shields.io/badge/LICENSE-MIT-00565f?style=for-the-badge&labelColor=3a4a51)](https://github.com/gilczarneski/50-Projetos-Em-50-Dias/blob/main/LICENSE)
 
@@ -95,11 +95,11 @@ This is my first big project where, with the use of technologies: HTML (site str
 
 ---
 
-# Autor
+# Authors
 
-|                                                Pessoa                                                |                                               Cargo                                               |                                                                          Social Link                                                                           |
+|                                                Contributors                                                |                                          Responsibility                                           |                                                                          Social Link                                                                           |
 | :--------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| ![](https://img.shields.io/badge/gil_everson_czarneski-3a4a51?style=for-the-badge&labelColor=3a4a51) | ![](https://img.shields.io/badge/-desenvolvedor_web-00565f?style=for-the-badge&labelColor=3a4a51) | [![Badge Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/gil-everson/) |
+| ![](https://img.shields.io/badge/gil_everson_czarneski-3a4a51?style=for-the-badge&labelColor=3a4a51) | ![](https://img.shields.io/badge/-WEB_Developer-00565f?style=for-the-badge&labelColor=3a4a51) | [![Badge Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/gil-everson/) |
 
 # Português
 
@@ -109,7 +109,7 @@ This is my first big project where, with the use of technologies: HTML (site str
 
 - [Descrição](#Descrição)
 - [Projetos](#Projetos)
-- [Colaborador](#Colaborador)
+- [Autores](#Autores)
 
 [![LICENSE Badge](https://img.shields.io/badge/LICENSE-MIT-00565f?style=for-the-badge&labelColor=3a4a51)](https://github.com/gilczarneski/50-Projetos-Em-50-Dias/blob/main/LICENSE)
 
@@ -195,7 +195,7 @@ Esse é meu primeiro grande projeto onde, com a utilização das tecnologias: HT
 
 ---
 
-# Colaborador
+# Autores
 
 |                                                Pessoa                                                |                                               Cargo                                               |                                                                          Social Link                                                                           |
 | :--------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------: |
