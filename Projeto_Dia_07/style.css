@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+:root {
+  --cor-fundo-esquerda: rgba(9, 44, 43, 0.7);
+  --cor-fundo-direita: rgba(239, 205, 45, 0.8);
+  --cor-acima-btn-esquerdo: rgba(9, 44, 43, 1);
+  --cor-acima-btn-direito: rgba(239, 205, 45, 1);
+  --width-acima: 75%;
+  --width-oposto: 25%;
+  --velocidade: 1000ms;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+h1 {
+  font-size: 4rem;
+  color: #fff;
+  position: absolute;
+  left: 50%;
+  top: 20%;
+  transform: translateX(-50%);
+  white-space: nowrap;
+}
+
+.btn {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  left: 50%;
+  top: 40%;
+  transform: translateX(-50%);
+  text-decoration: none;
+  color: #fff;
+  border: #fff solid 0.2rem;
+  font-size: 1rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  width: 15rem;
+  padding: 1.5rem;
+}
+
+.divisao.esquerda .btn:hover {
+  background-color: var(--cor-acima-btn-esquerdo);
+  border-color: var(--cor-acima-btn-esquerdo);
+}
+
+.divisao.direita .btn:hover {
+  background-color: var(--cor-acima-btn-direito);
+  border-color: var(--cor-acima-btn-direito);
+}
+
+.container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background: #333;
+}
+
+.divisao {
+  position: absolute;
+  width: 50%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.divisao.esquerda {
+  left: 0;
+  background: url(assets/Bioshock.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.divisao.esquerda::before {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: var(--cor-fundo-esquerda);
+}
+
+.divisao.direita {
+  right: 0;
+  background: url(assets/Borderlands.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.divisao.direita::before {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: var(--cor-fundo-direita);
+}
+
+.divisao.direita,
+.divisao.esquerda,
+.divisao.direita::before,
+.divisao.esquerda::before {
+  transition: all var(--velocidade) ease-in-out;
+}
+
+.acima-esquerda .esquerda {
+  width: var(--width-acima);
+}
+
+.acima-esquerda .direita {
+  width: var(--width-oposto);
+}
+
+.acima-direita .direita {
+  width: var(--width-acima);
+}
+
+.acima-direita .esquerda {
+  width: var(--width-oposto);
+}
+
+@media (max-width: 800px) {
+  h1 {
+    font-size: 2rem;
+    top: 30%;
+  }
+
+  .btn {
+    padding: 1.2rem;
+    width: 12rem;
+  }
+}
