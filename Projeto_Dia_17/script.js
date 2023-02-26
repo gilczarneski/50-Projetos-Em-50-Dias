@@ -3,8 +3,8 @@ const IMG_PATH = 'https://image.tmdb.org/t/p/w1280'
 const SEARCH_API = 'https://api.themoviedb.org/3/search/movie?api_key=3fd2be6f0c70a2a598f084ddfb75487c&query="'
 
 const main = document.getElementById('main')
-const form = document.getElementById('form')
-const search = document.getElementById('search')
+const formulario = document.getElementById('formulario')
+const busca = document.getElementById('busca')
 
 // Get initial movies
 getMovies(API_URL)
@@ -50,15 +50,15 @@ function getClassByRate(vote) {
     }
 }
 
-form.addEventListener('submit', (e) => {
+formulario.addEventListener('submit', (e) => {
     e.preventDefault()
 
-    const searchTerm = search.value
+    const searchTerm = busca.value
 
     if(searchTerm && searchTerm !== '') {
         getMovies(SEARCH_API + searchTerm)
 
-        search.value = ''
+        busca.value = ''
     } else {
         window.location.reload()
     }
