@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+:root{
+  --cor-primaria:#00565f;
+  --cor-secundaria:#2ac7c2;
+  --cor-fundo:#092c2b;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--cor-fundo);
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+img{
+  max-width: 100%;
+}
+
+.cartao{
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  overflow: hidden;
+  width: 350px;
+}
+
+.cartao-header{
+  height: 200px;
+}
+
+.cartao-header img{
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
+
+.cartao-conteudo{
+  background-color: var(--cor-secundaria);
+  padding: 30px;
+}
+
+.cartao-titulo{
+  height: 20px;
+  margin: 0;
+}
+
+.cartao-trecho{
+  color: var(--cor-primaria);
+  margin: 10px 0 20px;
+}
+
+.autor{
+  display: flex;
+}
+
+.img-perfil{
+  border: 50%;
+  overflow: hidden;
+  height: 40px;
+  width: 40px;
+}
+
+.informacao-autor{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  margin-left: 10px;
+  width: 150px;
+}
+
+.informacao-autor small{
+  color: var(--cor-primaria);
+  margin: 5px;
+}
+
+.animado-bg {
+  background-image: linear-gradient(
+    to right,
+    #f6f7f8 0%,
+    #edeef1 10%,
+    #f6f7f8 20%,
+    #f6f7f8 100%
+  );
+  background-size: 200% 100%;
+  animation: bgPos 1s linear infinite;
+}
+
+.texto-animado-bg {
+  border-radius: 50px;
+  display: inline-block;
+  margin: 0;
+  height: 10px;
+  width: 100%;
+}
+
+@keyframes bgPos {
+  0% {
+    background-position: 50% 0;
+  }
+
+  100% {
+    background-position: -150% 0;
+  }
+}
