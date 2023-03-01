@@ -1,5 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
+:root{
+  --cor-primaria:#00565f;
+  --cor-secundaria:#00454c;
+  --cor-terciaria: #2ac7c2;
+  --cor-fundo:#092c2b;
+}
+
 * {
   box-sizing: border-box;
 }
