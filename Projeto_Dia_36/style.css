@@ -1,0 +1,41 @@
+:root{
+  --cor-primaria:#00565f;
+  --cor-secundaria:#00454c;
+  --cor-terciaria: #2ac7c2;
+  --cor-fundo:#092c2b;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--cor-fundo);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 500px;
+}
+
+.quadrado{
+  background-color: var(--cor-primaria);
+  box-shadow: 0 0 2px #000;
+  height: 16px;
+  width: 16px;
+  margin: 2px;
+  transition: 2s ease;
+}
+
+.quadrado:hover{
+  transition-duration: 0s;
+}
