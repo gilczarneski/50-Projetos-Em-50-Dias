@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+:root{
+  --cor-primaria:#00565f;
+  --cor-secundaria:#00454c;
+  --cor-terciaria: #2ac7c2;
+  --cor-fundo:#092c2b;
+}
+
+body {
+  background-color: var(--cor-fundo);
+  font-family: 'Roboto', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
+
+.container {
+  border-radius: 5px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  width: 300px;
+}
+
+.titulo {
+  margin: 0;
+}
+
+.subtitulo {
+  display: inline-block;
+  margin: 5px 0 20px;
+  opacity: 0.8;
+}
+
+.header {
+  background-color: var(--cor-primaria);
+  color: var(--cor-terciaria);
+  padding: 30px 20px;
+}
+
+input::placeholder{
+  color: var(--cor-terciaria);
+}
+
+.header input {
+  background-color: rgba(0, 0, 0, 0.3);
+  border: 0;
+  border-radius: 50px;
+  color: var(--cor-terciaria);
+  font-size: 14px;
+  padding: 10px 15px;
+  width: 90%;
+}
+
+.header input:focus {
+  outline: none;
+}
+
+.lista-usuario {
+  background-color: var(--cor-terciaria);
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+.lista-usuario li {
+  display: flex;
+  padding: 20px;
+}
+
+.lista-usuario img {
+  border-radius: 50%;
+  object-fit: cover;
+  height: 50px;
+  width: 50px;
+}
+
+.lista-usuario .informacao-usuario {
+  margin-left: 20px;
+}
+
+.lista-usuario .informacao-usuario h4 {
+  margin: 0 0 10px;
+}
+
+.lista-usuario .informacao-usuario p {
+  font-size: 12px;
+}
+
+.lista-usuario li:not(:last-of-type) {
+  border-bottom: 1px solid var(--cor-secundaria);
+}
+
+.lista-usuario li.oculto {
+  display: none;
+}
