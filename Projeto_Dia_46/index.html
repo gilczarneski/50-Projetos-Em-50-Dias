@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="shortcut icon" href="/Códigos/assets/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"/>
+    <link rel="stylesheet" href="style.css" />
+    <title>Quiz App</title>
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <div class="quiz-container" id="quiz">
+      <div class="quiz-header">
+        <h2 id="pergunta"></h2>
+        <ul>
+          <li>
+            <input type="radio" name="resposta" id="a" class="resposta">
+            <label for="a" id="texto_a"></label>
+          </li>
+
+          <li>
+            <input type="radio" name="resposta" id="b" class="resposta">
+            <label for="b" id="texto_b"></label>
+          </li>
+
+          <li>
+            <input type="radio" name="resposta" id="c" class="resposta">
+            <label for="c" id="texto_c"></label>
+          </li>
+
+          <li>
+            <input type="radio" name="resposta" id="d" class="resposta">
+            <label for="d" id="texto_d"></label>
+          </li>
+        </ul>
+      </div>
+      <button id="enviar">Enviar</button>
+    </div>
+  </body>
+</html>
