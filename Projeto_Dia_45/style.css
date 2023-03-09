@@ -1,0 +1,121 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+
+:root{
+  --cor-primaria:#00565f;
+  --cor-secundaria:#00454c;
+  --cor-terciaria: #2ac7c2;
+  --cor-fundo:#092c2b;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: linear-gradient(135deg, var(--cor-fundo) 0%, var(--cor-primaria) 100%);
+  font-family: 'Muli', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+.texto {
+  text-transform: uppercase;
+  color: var(--cor-terciaria);
+}
+
+.logo {
+  width: 200px;
+}
+
+.nav-btn {
+  border: none;
+  background-color: var(--cor-primaria);
+  border-radius: 5px;
+  color: var(--cor-terciaria);
+  cursor: pointer;
+  font-size: 20px;
+}
+
+.mostrar-btn {
+  position: fixed;
+  top: 10px;
+  left: 10px;
+}
+
+.nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  transform: translateX(-100%);
+  transition: transform 0.3s ease-in-out;
+}
+
+.nav.visivel {
+  transform: translateX(0);
+}
+
+.nav-preta {
+  background-color: rgb(34, 31, 31);
+  width: 60%;
+  max-width: 480px;
+  min-width: 320px;
+  transition-delay: 0.4s;
+}
+
+.nav-preta.visivel {
+  transition-delay: 0s;
+}
+
+.nav-vermelha {
+  background-color: rgb(229, 9, 20);
+  width: 95%;
+  transition-delay: 0.2s;
+}
+
+.nav-vermelha.visivel {
+  transition-delay: 0.2s;
+}
+
+.nav-branco {
+  background-color: #fff;
+  width: 95%;
+  padding: 40px;
+  position: relative;
+  transition-delay: 0s;
+}
+
+.nav-branco.visivel {
+  transition-delay: 0.4s;
+}
+
+.fechar-btn {
+  opacity: 0.3;
+  position: absolute;
+  top: 40px;
+  right: 30px;
+}
+
+.lista {
+  list-style-type: none;
+  padding: 0;
+}
+
+.lista li {
+  margin: 20px 0;
+}
+
+.lista li a {
+  color: rgb(34, 31, 31);
+  font-size: 14px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.lista ul {
+  list-style-type: none;
+  padding-left: 20px;
+}
