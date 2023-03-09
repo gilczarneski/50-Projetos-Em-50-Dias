@@ -2,7 +2,7 @@ const avaliacao_usuario = document.querySelectorAll('.avaliacao')
 const container_Avaliacao = document.querySelector('.containerAvaliacao')
 const btnEnviar = document.querySelector('#enviar')
 const painel = document.querySelector('#painel')
-let selectedRating = 'Satisfeito'
+let selectedRating = ''
 
 container_Avaliacao.addEventListener('click', (e) => {
     if(e.target.parentNode.classList.contains('avaliacao') && e.target.nextElementSibling) {
