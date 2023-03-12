@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap');
+
+:root{
+  --cor-primaria:#00565f;
+  --cor-secundaria:#00454c;
+  --cor-terciaria: #2ac7c2;
+  --cor-fundo:#092c2b;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: linear-gradient(315deg, var(--cor-fundo), var(--cor-terciaria));
+  color: var(--cor-terciaria);
+  font-family: 'Poppins', sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  margin: 0;
+}
+
+h1 {
+  color: var(--cor-primaria);
+  font-size: 8rem;
+  text-align: center;
+}
+
+form {
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  max-width: 100%;
+  width: 400px;
+}
+
+.input {
+  background-color: var(--cor-primaria);
+  border: none;
+  border-radius: 5px;
+  color: var(--cor-terciaria);
+  font-size: 2rem;
+  padding: 1rem 2rem;
+  display: block;
+  width: 100%;
+}
+
+.input::placeholder {
+  color: var(--cor-terciaria);
+}
+
+.input:focus {
+  outline-color: var(--cor-secundaria);
+}
+
+.tarefas {
+  background-color: var(--cor-fundo);
+  border-radius: 5px;
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+.tarefas li {
+  border-top: 1px solid var()--cor-secundaria;
+  cursor: pointer;
+  font-size: 1.5rem;
+  padding: 1rem 2rem;
+}
+
+.tarefas li.completa {
+  color: var(--cor-terciaria);
+  text-decoration: line-through;
+}
+
+small {
+  color: var(--cor-terciaria);
+  margin-top: 3rem;
+  text-align: center;
+}
