@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P&display=swap');
+
+:root{
+  --cor-primaria:#00565f;
+  --cor-secundaria:#00454c;
+  --cor-terciaria: #2ac7c2;
+  --cor-fundo:#092c2b;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--cor-fundo);
+  color: var(--cor-terciaria);
+  font-family: 'Press Start 2P', sans-serif;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+  text-align: center;
+}
+
+a {
+  color: var(--cor-terciaria);
+}
+
+h1 {
+  line-height: 1.4;
+}
+
+.btn {
+  border: 0;
+  background-color: var(--cor-terciaria);
+  color: var(--cor-primaria);
+  padding: 15px 20px;
+  font-family: inherit;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  opacity: 0.9;
+}
+
+.btn:focus {
+  outline: 0;
+}
+
+.janela {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+  transition: margin 0.5s ease-out;
+}
+
+.janela.subir {
+  margin-top: -100vh;
+}
+
+.lista-insetos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  list-style-type: none;
+  padding: 0;
+}
+
+.lista-insetos li {
+  margin: 10px;
+}
+
+.escolher-inseto-btn {
+  background-color: transparent;
+  border: 2px solid var(--cor-terciaria);
+  border-radius: 5px;
+  color: var(--cor-terciaria);
+  cursor: pointer;
+  font-family: inherit;
+  width: 150px;
+  height: 150px;
+}
+
+.escolher-inseto-btn:hover {
+  background-color: var(--cor-terciaria);
+  color: var(--cor-fundo);
+}
+
+.escolher-inseto-btn:active {
+  background-color: var(--cor-secundaria);
+}
+
+.escolher-inseto-btn img {
+  width: 100px;
+  height: 100px;
+  object-fit: contain;
+}
+
+.game-container {
+  position: relative;
+}
+
+.tempo,
+.pontuacao {
+  position: absolute;
+  top: 20px;
+}
+
+.tempo {
+  left: 20px;
+}
+
+.pontuacao {
+  right: 20px;
+}
+
+.menssagem {
+  line-height: 1.7;
+  background-color: rgba(42, 199, 194, 0.5);
+  color: var(--cor-fundo);
+  width: 100%;
+  padding: 20px;
+  z-index: 100;
+  text-align: center;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, -150%);
+  transition: transform 0.4s ease-in;
+}
+
+.menssagem.visivel {
+  transform: translate(-50%, 150%);
+  opacity: 1;
+}
+
+.inseto {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  transform: translate(-50%, -50%) scale(1);
+  transition: transform 0.3s ease-in-out;
+}
+
+.inseto.pego {
+  transform: translate(-50%, -50%) scale(0);
+}
+
+.inseto img {
+  width: 100px;
+  height: 100px;
+}

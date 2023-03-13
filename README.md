@@ -88,9 +88,7 @@ This is my first big project where, with the use of technologies: HTML (site str
 | 47  | [![Testimonial Box Switcher](https://img.shields.io/badge/Testimonial_Box_Switcher-3a4a51?style=for-the-badge&labelColor=3a4a51)](https://github.com/gilczarneski/50-Projetos-Em-50-Dias/tree/main/Projeto_Dia_47) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_47_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](https://gilczarneski.github.io/50-Projetos-Em-50-Dias/Projeto_Dia_47/)|
 | 48  | [![Random Image Feed](https://img.shields.io/badge/Random_Image_Feed-3a4a51?style=for-the-badge&labelColor=3a4a51)](https://github.com/gilczarneski/50-Projetos-Em-50-Dias/tree/main/Projeto_Dia_48) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_48_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](https://gilczarneski.github.io/50-Projetos-Em-50-Dias/Projeto_Dia_48/)|
 | 49  | [![Todo List](https://img.shields.io/badge/Todo_List-3a4a51?style=for-the-badge&labelColor=3a4a51)](https://github.com/gilczarneski/50-Projetos-Em-50-Dias/tree/main/Projeto_Dia_49) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_49_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](https://gilczarneski.github.io/50-Projetos-Em-50-Dias/Projeto_Dia_49/)|
-<!--
 | 50  | [![Insect Catch Game](https://img.shields.io/badge/Insect_Catch_Game-3a4a51?style=for-the-badge&labelColor=3a4a51)](https://github.com/gilczarneski/50-Projetos-Em-50-Dias/tree/main/Projeto_Dia_50) | [![DEPLOY Badge](https://img.shields.io/badge/-DAY_50_DEMO-00565f?style=for-the-badge&labelColor=3a4a51)](https://gilczarneski.github.io/50-Projetos-Em-50-Dias/Projeto_Dia_50/)|
--->
 
 ---
 
@@ -187,9 +185,7 @@ Esse é meu primeiro grande projeto onde, com a utilização das tecnologias: HT
 | 47  | [![Caixa de depoimentos](https://img.shields.io/badge/Caixa_de_depoimentos-3a4a51?style=for-the-badge&labelColor=3a4a51)](https://github.com/gilczarneski/50-Projetos-Em-50-Dias/tree/main/Projeto_Dia_47) | [![DEPLOY Badge](https://img.shields.io/badge/-DEMONSTRAÇÃO_Dia_47-00565f?style=for-the-badge&labelColor=3a4a51)](https://gilczarneski.github.io/50-Projetos-Em-50-Dias/Projeto_Dia_47/)|
 | 48  | [![Gerador de imagems aleatória](https://img.shields.io/badge/Random_Image_Feed-3a4a51?style=for-the-badge&labelColor=3a4a51)](https://github.com/gilczarneski/50-Projetos-Em-50-Dias/tree/main/Projeto_Dia_48) | [![DEPLOY Badge](https://img.shields.io/badge/-DEMONSTRAÇÃO_Dia_48-00565f?style=for-the-badge&labelColor=3a4a51)](https://gilczarneski.github.io/50-Projetos-Em-50-Dias/Projeto_Dia_48/)|
 | 49  | [![Lista de tarefas](https://img.shields.io/badge/Lista_Afazeres-3a4a51?style=for-the-badge&labelColor=3a4a51)](https://github.com/gilczarneski/50-Projetos-Em-50-Dias/tree/main/Projeto_Dia_49) | [![DEPLOY Badge](https://img.shields.io/badge/-DEMONSTRAÇÃO_Dia_49-00565f?style=for-the-badge&labelColor=3a4a51)](https://gilczarneski.github.io/50-Projetos-Em-50-Dias/Projeto_Dia_49/)|
-<!--
 | 50  | [![Jogo pegue o inseto](https://img.shields.io/badge/Insect_Catch_Game-3a4a51?style=for-the-badge&labelColor=3a4a51)](https://github.com/gilczarneski/50-Projetos-Em-50-Dias/tree/main/Projeto_Dia_50) | [![DEPLOY Badge](https://img.shields.io/badge/-DEMONSTRAÇÃO_Dia_50-00565f?style=for-the-badge&labelColor=3a4a51)](https://gilczarneski.github.io/50-Projetos-Em-50-Dias/Projeto_Dia_50/)|
--->
 
 ---
 
